@@ -1,0 +1,15 @@
+E:\Projects\Clouds\Toffice\Tcloud\FrontDesk\FDMv1dn8vs2022ca\FDM.Persistence\bin\Debug\net8.0\FDM.Persistence.deps.json
+E:\Projects\Clouds\Toffice\Tcloud\FrontDesk\FDMv1dn8vs2022ca\FDM.Persistence\bin\Debug\net8.0\FDM.Persistence.dll
+E:\Projects\Clouds\Toffice\Tcloud\FrontDesk\FDMv1dn8vs2022ca\FDM.Persistence\bin\Debug\net8.0\FDM.Persistence.pdb
+E:\Projects\Clouds\Toffice\Tcloud\FrontDesk\FDMv1dn8vs2022ca\FDM.Persistence\bin\Debug\net8.0\FDM.Domain.dll
+E:\Projects\Clouds\Toffice\Tcloud\FrontDesk\FDMv1dn8vs2022ca\FDM.Persistence\bin\Debug\net8.0\FDM.Domain.pdb
+E:\Projects\Clouds\Toffice\Tcloud\FrontDesk\FDMv1dn8vs2022ca\FDM.Persistence\obj\Debug\net8.0\FDM.Persistence.csproj.AssemblyReference.cache
+E:\Projects\Clouds\Toffice\Tcloud\FrontDesk\FDMv1dn8vs2022ca\FDM.Persistence\obj\Debug\net8.0\FDM.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Clouds\Toffice\Tcloud\FrontDesk\FDMv1dn8vs2022ca\FDM.Persistence\obj\Debug\net8.0\FDM.Persistence.AssemblyInfoInputs.cache
+E:\Projects\Clouds\Toffice\Tcloud\FrontDesk\FDMv1dn8vs2022ca\FDM.Persistence\obj\Debug\net8.0\FDM.Persistence.AssemblyInfo.cs
+E:\Projects\Clouds\Toffice\Tcloud\FrontDesk\FDMv1dn8vs2022ca\FDM.Persistence\obj\Debug\net8.0\FDM.Persistence.csproj.CoreCompileInputs.cache
+E:\Projects\Clouds\Toffice\Tcloud\FrontDesk\FDMv1dn8vs2022ca\FDM.Persistence\obj\Debug\net8.0\FDM.Persistence.csproj.CopyComplete
+E:\Projects\Clouds\Toffice\Tcloud\FrontDesk\FDMv1dn8vs2022ca\FDM.Persistence\obj\Debug\net8.0\FDM.Persistence.dll
+E:\Projects\Clouds\Toffice\Tcloud\FrontDesk\FDMv1dn8vs2022ca\FDM.Persistence\obj\Debug\net8.0\refint\FDM.Persistence.dll
+E:\Projects\Clouds\Toffice\Tcloud\FrontDesk\FDMv1dn8vs2022ca\FDM.Persistence\obj\Debug\net8.0\FDM.Persistence.pdb
+E:\Projects\Clouds\Toffice\Tcloud\FrontDesk\FDMv1dn8vs2022ca\FDM.Persistence\obj\Debug\net8.0\ref\FDM.Persistence.dll
