@@ -1,0 +1,14 @@
+E:\Projects\Research\Training\dotnet\solid\bin\Debug\net8.0\solid.exe
+E:\Projects\Research\Training\dotnet\solid\bin\Debug\net8.0\solid.deps.json
+E:\Projects\Research\Training\dotnet\solid\bin\Debug\net8.0\solid.runtimeconfig.json
+E:\Projects\Research\Training\dotnet\solid\bin\Debug\net8.0\solid.dll
+E:\Projects\Research\Training\dotnet\solid\bin\Debug\net8.0\solid.pdb
+E:\Projects\Research\Training\dotnet\solid\obj\Debug\net8.0\solid.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Research\Training\dotnet\solid\obj\Debug\net8.0\solid.AssemblyInfoInputs.cache
+E:\Projects\Research\Training\dotnet\solid\obj\Debug\net8.0\solid.AssemblyInfo.cs
+E:\Projects\Research\Training\dotnet\solid\obj\Debug\net8.0\solid.csproj.CoreCompileInputs.cache
+E:\Projects\Research\Training\dotnet\solid\obj\Debug\net8.0\solid.dll
+E:\Projects\Research\Training\dotnet\solid\obj\Debug\net8.0\refint\solid.dll
+E:\Projects\Research\Training\dotnet\solid\obj\Debug\net8.0\solid.pdb
+E:\Projects\Research\Training\dotnet\solid\obj\Debug\net8.0\solid.genruntimeconfig.cache
+E:\Projects\Research\Training\dotnet\solid\obj\Debug\net8.0\ref\solid.dll
