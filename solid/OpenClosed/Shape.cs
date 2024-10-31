@@ -1,5 +1,7 @@
 namespace SolidPrinciples;
 
+// Step 2: Implement Shape Classes
+
 public class Circle : IShape
 {
     public double Radius { get; }
@@ -29,5 +31,24 @@ public class Rectangle : IShape
     public double CalculateArea()
     {
         return Width * Height;
+    }
+}
+
+// Step 4: Adding New Shapes
+
+public class Triangle : IShape
+{
+    public double Base { get; }
+    public double Height { get; }
+
+    public Triangle(double baseLength, double height)
+    {
+        Base = baseLength;
+        Height = height;
+    }
+
+    public double CalculateArea()
+    {
+        return 0.5 * Base * Height;
     }
 }
