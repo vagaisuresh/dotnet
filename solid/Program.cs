@@ -11,3 +11,16 @@
 // I: Interface Segregation Principle (ISP)
 // D: Dependency Inversion Principle (DIP)
 
+using SolidPrinciples;
+
+var shapes = new List<IShape>
+{
+    new Circle(5),
+    new Rectangle(4, 6),
+    new Triangle(4, 6)
+};
+
+var areaCalculator = new AreaCalculator();
+double totalArea = areaCalculator.CalculateTotalArea(shapes);
+
+Console.WriteLine($"Total Area: {totalArea}");
