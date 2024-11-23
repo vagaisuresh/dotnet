@@ -30,7 +30,7 @@ using SolidPrinciples;
 // L: Liskov substitution Principle (LSP)
 // Initial (normal calculation)
 
-var numbers = new int[] { 5, 7, 9, 8, 1, 6, 4 };
+//var numbers = new int[] { 5, 7, 9, 8, 1, 6, 4 };
 
 //SumCalculator sum = new SumCalculator(numbers);
 //Console.WriteLine($"The sum of all the numbers: {sum.Calculate()}");
@@ -54,10 +54,32 @@ var numbers = new int[] { 5, 7, 9, 8, 1, 6, 4 };
 
 // Liskov Substitution Principle
 
-Calculator sum = new SumCalculator(numbers);
-Console.WriteLine($"The sum of all the numbers: {sum.Calculate()}");
+// Calculator sum = new SumCalculator(numbers);
+// Console.WriteLine($"The sum of all the numbers: {sum.Calculate()}");
 
-Console.WriteLine();
+// Console.WriteLine();
 
-Calculator evenSum = new EvenNumbersSumCalculator(numbers);
-Console.WriteLine($"The sum of all the even numbers: {evenSum.Calculate()}");
+// Calculator evenSum = new EvenNumbersSumCalculator(numbers);
+// Console.WriteLine($"The sum of all the even numbers: {evenSum.Calculate()}");
+
+// 2nd Example (ChatGPT)
+
+// Bird bird = new Bird();
+// bird.Fly();
+
+// Sparrow sparrow = new Sparrow();
+// sparrow.Fly();
+
+// Penguin penguin = new Penguin();
+// penguin.Fly();
+
+// Correcting the LSP Violation
+
+Sparrow sparrow = new Sparrow();
+sparrow.Move();
+
+Penguin penguin = new Penguin();
+penguin.Move();
+
+Ostrich ostrich = new Ostrich();
+ostrich.Move();
