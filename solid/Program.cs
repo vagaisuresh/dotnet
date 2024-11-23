@@ -32,10 +32,32 @@ using SolidPrinciples;
 
 var numbers = new int[] { 5, 7, 9, 8, 1, 6, 4 };
 
-SumCalculator sum = new SumCalculator(numbers);
+//SumCalculator sum = new SumCalculator(numbers);
+//Console.WriteLine($"The sum of all the numbers: {sum.Calculate()}");
+//Console.WriteLine();
+
+// EvenNumbersSumCalculatorIni evenSum = new EvenNumbersSumCalculatorIni(numbers);
+// Console.WriteLine($"The sum of all the even numbers: {evenSum.Calculate()}");
+
+// Above is okey, but...
+
+// SumCalculatorIni evenSum = new EvenNumbersSumCalculatorIni(numbers);
+// Console.WriteLine($"The sum of all the even numbers: {evenSum.Calculate()}");
+
+// This means that the Count method from the SumCalculator will be executed.
+// So, this is not right, obviously, because our child class is not behaving as a substitute for the parent class.
+
+// Better solution
+
+//SumCalculator evenSum = new EvenNumbersSumCalculator(numbers);
+//Console.WriteLine($"The sum of all the even numbers: {evenSum.Calculate()}");
+
+// Liskov Substitution Principle
+
+Calculator sum = new SumCalculator(numbers);
 Console.WriteLine($"The sum of all the numbers: {sum.Calculate()}");
 
 Console.WriteLine();
 
-EvenNumbersSumCalculator evenSum = new EvenNumbersSumCalculator(numbers);
+Calculator evenSum = new EvenNumbersSumCalculator(numbers);
 Console.WriteLine($"The sum of all the even numbers: {evenSum.Calculate()}");

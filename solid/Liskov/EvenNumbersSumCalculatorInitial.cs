@@ -1,8 +1,8 @@
 namespace SolidPrinciples;
 
-public class EvenNumbersSumCalculator : SumCalculator
+public class EvenNumbersSumCalculatorIni : SumCalculatorIni
 {
-    public EvenNumbersSumCalculator(int[] numbers)
+    public EvenNumbersSumCalculatorIni(int[] numbers)
         : base(numbers)
     {
     }
